@@ -1,9 +1,9 @@
 # Capacitated-Team-Orienteering-Problem
 
-C++ code to build and run evaluation of the Capacitated Team Orienteering Problem
+C++ code to build and run evaluation of the Capacitated Team Orienteering Problem in whic the goal is to find a set of tours from a station for a set of vehicles to deliver pakages that maximizes the profit and respects two constraints: 1- a capacity constraint on the total size of packages, and 2- a budget constraint on the length of each tour that a vehicle can travel.   
 
 The algorithms were implemented and evaluated in order to write the paper which title is
-"Improved Algorithms for Capacitated Budgeted Prize-Collecting Vehicle Routing". 
+"Improved Algorithms for Capacitated Budgeted Prize-Collecting Vehicle Routing" by D'Angelo et al. 
 
 There are two projects called Small_Capacity_Prize and Large_Capacity_Prize.
 
