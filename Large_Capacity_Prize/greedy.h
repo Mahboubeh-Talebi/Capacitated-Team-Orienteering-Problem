@@ -1,4 +1,4 @@
-#ifndef GreedyAlg_H_
+------#ifndef GreedyAlg_H_
 #define GreedyAlg_H_
 #include <chrono>
 #include <iostream>
